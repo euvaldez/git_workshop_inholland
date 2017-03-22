@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int calculateFibonnaci();
-
+/**
+ * TODO add a nice message in the prompt to ask for the number
+ * Given a number display its Fibonnaci series
+ * @return int
+ */
 int main() {
     int n, i = 0, c;
 
@@ -18,6 +22,11 @@ int main() {
     return 0;
 }
 
+/**
+ *
+ * @param int fibo_number
+ * @return int
+ */
 int calculateFibonnaci(int fibo_number)
 {
     if ( fibo_number == 0 )
