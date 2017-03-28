@@ -1,0 +1,3 @@
+/Users/Eux/CLionProjects/projects/git_workshop_inholland/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Eux/CLionProjects/projects/git_workshop_inholland/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Eux/CLionProjects/projects/git_workshop_inholland/cmake-build-debug/CMakeFiles/git_workshop.dir
